@@ -13,6 +13,5 @@ int main() {
         printf("phew! close call");
     }
     printf("\n");
-    todo2();
     return 0;
 }
